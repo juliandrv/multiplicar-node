@@ -1,4 +1,4 @@
-## NTablas de Multiplicar - Node Console App
+## Tablas de Multiplicar - Node Console App
 
 Esta es una aplicación para generar archivos de tablas de multiplicar
 
